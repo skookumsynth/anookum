@@ -1,0 +1,33 @@
+[Eagle]
+Version="07 03 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/EAGLE-7.3.0/lbr/v-reg.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/kosmotone/eagle_libraries/000.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/kosmotone/eagle_libraries/SquareEyesInstruments.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/kosmotone/eagle_libraries/adafruit.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/kosmotone/eagle_libraries/sqr.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/kosmotone/eagle_libraries/synthdiy.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/kosmotone/eagle_libraries/thonkiconn.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/skookum_synth/libs/0_skookumsynth_conn.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/skookum_synth/libs/0_skookumsynth_gfx.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/skookum_synth/libs/0_skookumsynth_ic.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/skookum_synth/libs/0_skookumsynth_opto.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/skookum_synth/libs/0_skookumsynth_passive.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/skookum_synth/libs/0_skookumsynth_semi.lbr"
+UsedLibrary="C:/Users/Niklas/Google Drive/skookum_synth/libs/0_skookumsynth_switch.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 1367 704"
+State=1
+Number=0
+
+[Desktop]
+Screen="1368 768"
+Window="Win_1"
